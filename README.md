@@ -235,28 +235,6 @@ pnpm dev "Explain the authentication flow in this project"
 pnpm dev "Create a reusable database connection module"
 ```
 
----
-
-## 🔮 Roadmap
-
-* [x] CLI foundation
-* [x] TypeScript setup
-* [x] AI agent integration
-* [x] CLI command handling
-* [x] Terminal UI
-* [ ] File-system tools
-* [ ] Codebase analysis
-* [ ] Multi-agent architecture
-* [ ] Git integration
-* [ ] Automated testing agent
-* [ ] Code review agent
-* [ ] Debugging agent
-* [ ] MCP tool integration
-* [ ] Interactive terminal mode
-* [ ] Production CLI package
-* [ ] npm package publishing
-
----
 
 ## 🧪 Development
 
@@ -277,53 +255,6 @@ Run the production build:
 ```bash
 pnpm start
 ```
-
----
-
-## 🔒 Security
-
-Please follow these practices:
-
-* Never commit API keys.
-* Never commit `.env` files.
-* Use environment variables for secrets.
-* Rotate exposed API keys immediately.
-* Review generated code before executing it.
-* Run agents with the minimum required permissions.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-### 1. Fork the repository
-
-```bash
-git clone https://github.com/Paritosh008/Cursor-CLI-Agents.git
-```
-
-### 2. Create a branch
-
-```bash
-git checkout -b feature/your-feature
-```
-
-### 3. Make your changes
-
-### 4. Commit
-
-```bash
-git commit -m "feat: add new agent capability"
-```
-
-### 5. Push
-
-```bash
-git push origin feature/your-feature
-```
-
-### 6. Open a Pull Request
 
 ---
 
